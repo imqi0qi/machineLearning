@@ -1,8 +1,0 @@
-#History : this is a test.
-#coder:71071
-#date:2016-08-21 14:50
-
-
-#begin
-echo "workspace and versionlib."
-#end
