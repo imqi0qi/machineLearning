@@ -1,0 +1,10 @@
+#this is a test.
+#coder:71071
+#date:2016-08-21
+#bug:repair some bugs.
+
+echo "hello,boss."
+
+echo "hello world."
+
+echo "hello,tom."
