@@ -5,6 +5,5 @@
 
 echo "hello world"
 
-my boss is very nice.
-
+echo "hello."
 #end
