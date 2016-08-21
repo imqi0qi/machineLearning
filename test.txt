@@ -2,9 +2,12 @@
 #coder:71071
 #date:2016-08-21
 #bug:repair some bugs.
+#begin
 
 echo "hello,boss."
 
 echo "hello world."
 
 echo "hello,tom."
+
+#end
