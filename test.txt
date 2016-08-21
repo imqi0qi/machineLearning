@@ -6,3 +6,7 @@
 echo "hello world."
 
 #end
+
+#begin
+echo "workspace and versionlib."
+#end
