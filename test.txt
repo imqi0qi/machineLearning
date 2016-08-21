@@ -2,10 +2,7 @@
 #coder:71071
 #date:2016-08-21 14:50
 
-#begin
 echo "hello world."
-
-#end
 
 #begin
 echo "workspace and versionlib."
