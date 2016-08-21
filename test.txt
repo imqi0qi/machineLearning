@@ -3,6 +3,8 @@
 #date:2016-08-21
 #begin
 
+my boss is very good.
+
 echo "hello world"
 
 #end
